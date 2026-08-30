@@ -1,0 +1,16 @@
+{
+    "nome1": "Fone de Ouvido Bluetooth",
+    "preco1": "R$ 199,90",
+    "imagem1": "imagens/fone.jpg",
+    "descricao1": "Cancelamento de ruído ativo e bateria de longa duração.",
+    
+    "nome2": "Smartwatch Sport",
+    "preco2": "R$ 299,90",
+    "imagem2": "imagens/smartwatch.jpg",
+    "descricao2": "Monitoramento cardíaco e GPS integrado para treinos.",
+    
+    "nome3": "Caixa de Som Portátil",
+    "preco3": "R$ 149,90",
+    "imagem3": "imagens/caixa-som.jpg",
+    "descricao3": "À prova d'água com potentes graves e conexão sem fio."
+}
